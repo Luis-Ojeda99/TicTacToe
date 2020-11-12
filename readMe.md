@@ -33,3 +33,7 @@ How to use the program:
 5.-Once the game is done, decide wheter to play again or disconnect.
 
 # How to use the Server GUI
+How to use the server program:
+
+1. Double click on serverLuisOjeda.jar.
+2. The server will automatically be launched and you will be able to monitor the client traffic.
