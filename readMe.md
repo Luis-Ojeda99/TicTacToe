@@ -22,11 +22,11 @@ If one player chose to play again and the other player does not, the player who 
 # How to use the Client GUI
 How to use the program:
 
-1.Double click on the file called clientLuisOjeda.jar
-2.Click the button connect to start playing.
-3.Enter your name and the IP address of the server.
-4.Click on the buttons on the left to make a move. Wait for your opponent's move, then move again.
-5.Once the game is done, decide wheter to play again or disconnect.
+1. Double click on the file called clientLuisOjeda.jar
+2. Click the button connect to start playing.
+3. Enter your name and the IP address of the server.
+4. Click on the buttons on the left to make a move. Wait for your opponent's move, then move again.
+5. Once the game is done, decide wheter to play again or disconnect.
 
 # How to use the Server GUI
 How to use the server program:
