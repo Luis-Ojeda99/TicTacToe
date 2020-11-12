@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
-This is a simple Tic-Tac-Toe game where people can play from 2 different computers. There is a server gui where the information of all ther users that are connecting to the game can be tracked. 
+This is a simple Tic-Tac-Toe game where people can play from 2 different computers. There is a server gui where the information of all ther users that are connecting to the game can be tracked. Created using Java.
+
 Created by Luis Ojeda on 2019 for an assignment for SAIT.
 
 # How to play
