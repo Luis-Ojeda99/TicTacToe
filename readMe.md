@@ -1,4 +1,5 @@
 # Tic-Tac-Toe
+This is a simple Tic-Tac-Toe game where people can play from 2 different computers. There is a server gui where the information of all ther users that are connecting to the game can be tracked. 
 
 # How to play
 The server GUI shows real-time log of connections and game traffic of clients.
